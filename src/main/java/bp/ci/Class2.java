@@ -1,2 +1,4 @@
-package bp.ci;public class Class2 {
+package bp.ci;
+
+public class Class2 {
 }
